@@ -188,7 +188,6 @@ a.active {
     }
 
     .bottom_menu {
-        
         flex-direction: column;
         align-items: center;
         padding: 20px;
